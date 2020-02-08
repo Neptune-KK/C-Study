@@ -1,0 +1,11 @@
+E:\YUFE\c#\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+E:\YUFE\c#\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csprojAssemblyReference.cache
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Form1.resources
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Properties.Resources.resources
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.cache
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.exe
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.pdb
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.icon.resources
+E:\YUFE\c#\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Frmpaste.resources
